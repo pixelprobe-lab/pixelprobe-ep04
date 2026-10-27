@@ -1,0 +1,4 @@
+# 圖片不隨 repo 發佈（版權屬原作者）images are not redistributed
+src/*.jpg
+src/*.png
+out/
