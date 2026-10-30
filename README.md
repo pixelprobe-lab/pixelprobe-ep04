@@ -1,8 +1,8 @@
 # pixelprobe-ep04
 
 PixelProbe EP4 示範程式碼 · Companion code for PixelProbe EP4
-**全網瘋傳的颶風女孩照片，分享前先看這 4 個疑點**
-影片連結 Video：即將公開 / coming soon
+**全網瘋傳的颶風女孩照片是 AI 做的嗎？分享前先看這 4 個疑點**
+影片連結 Video：https://youtu.be/TVg-t8r_fgo
 
 ---
 
