@@ -1,3 +1,2 @@
-# 安裝方式 Install: pip install -r requirements.txt (Python 3.9+)
-numpy>=1.24                  # 數值運算與 FFT numerical arrays & FFT
-opencv-python-headless>=4.8  # 影像處理、fitLine image processing, fitLine
+numpy>=1.24
+opencv-python-headless>=4.8
